@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/pedro-miguel-assis-torres" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
+  <a href="https://github.com/Webbyglint" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+  </a>
   <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Oportunidade-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" />
   <img src="https://img.shields.io/badge/Local-São%20Paulo%2C%20SP-FF007F?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
@@ -26,6 +29,7 @@ Olá! Sou o **Pedro Miguel**, apaixonado por tecnologia e focado em resolver pro
 
 | Categoria | Habilidades / Ferramentas |
 | :--- | :--- |
+| **Linguagens & Tecnologias** | Python, Java, HTML, CSS, JavaScript |
 | **Suporte & Hardware** | Manutenção Preventiva e Corretiva, Diagnóstico de Falhas, Suporte a Usuários, Hardware & Software |
 | **Administração & Processos** | Rotinas Administrativas, Gestão de Planilhas, Organização de Processos, Atendimento ao Cliente |
 | **Soft Skills** | Comprometimento, Criação de Relacionamentos, Comunicação, Trabalho em Equipe |
@@ -56,14 +60,14 @@ Olá! Sou o **Pedro Miguel**, apaixonado por tecnologia e focado em resolver pro
 ### 📊 Estatísticas do GitHub & Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Webbyglint&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbyglint&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webbyglint&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
