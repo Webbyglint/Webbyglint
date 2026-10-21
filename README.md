@@ -40,20 +40,20 @@ Olá! Sou o **Pedro Miguel**, apaixonado por tecnologia e focado em resolver pro
 
 ### 🎓 Formação Acadêmica
 
-* **Universidade Cidade de São Paulo (UNICID)**[cite: 1]
-  * 🖥️ *Análise e Desenvolvimento de Sistemas* (Fevereiro de 2026 – Fevereiro de 2028)[cite: 1]
-* **SENAI São Paulo**[cite: 1]
-  * ⚡ *Tecnologia da Informação* (Janeiro de 2023 – Julho de 2023)[cite: 1]
-* **Instituto PROA**[cite: 1]
+* **Universidade Cidade de São Paulo (UNICID)**
+  * 🖥️ *Análise e Desenvolvimento de Sistemas* (Fevereiro de 2026 – Fevereiro de 2028)
+* **SENAI São Paulo**
+  * ⚡ *Tecnologia da Informação* (Janeiro de 2023 – Julho de 2023)
+* **Instituto PROA**
   * 🚀 Capacitação profissional e desenvolvimento de competências para o mercado.
 
 ---
 
 ### 💼 Experiência Profissional
 
-#### **IMPD — Igreja Mundial do Poder de Deus** *(Setembro de 2023 – Maio de 2024 · 9 meses)*[cite: 1]
-* **Técnico de Microcomputadores:** Atuação direta com manutenção preventiva e corretiva de equipamentos, diagnóstico de falhas e suporte técnico aos usuários, garantindo a continuidade das operações e a eficiência do parque tecnológico[cite: 1].
-* **Assistente Administrativo:** Responsável por rotinas administrativas, controle e organização de processos, além da gestão e atualização de planilhas para apoio ao planejamento e otimização do ambiente corporativo[cite: 1].
+#### **IMPD — Igreja Mundial do Poder de Deus** *(Setembro de 2023 – Maio de 2024 · 9 meses)*
+* **Técnico de Microcomputadores:** Atuação direta com manutenção preventiva e corretiva de equipamentos, diagnóstico de falhas e suporte técnico aos usuários, garantindo a continuidade das operações e a eficiência do parque tecnológico
+* **Assistente Administrativo:** Responsável por rotinas administrativas, controle e organização de processos, além da gestão e atualização de planilhas para apoio ao planejamento e otimização do ambiente corporativo
 
 ---
 
